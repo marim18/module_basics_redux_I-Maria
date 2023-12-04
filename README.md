@@ -4,11 +4,11 @@
 In this assignment your goal is always to get the car to the final flag. 
 You have three functions (Lego blocks) to achieve this:
 
-•	Move -> Moves the car 1 space in the direction it is heading. 
-•	Turn -> Turns the car 90 deg clockwise. 
-•	Peek -> Returns true if the next cell is open, otherwise false. 
+- **Move** : Moves the car 1 space in the direction it is heading. 
+- **Turn** : Turns the car 90 deg clockwise. 
+- **Peek** : Returns true if the next cell is open, otherwise false. 
 
-Of course, you also have the option to use the other blocks from our syllabus to achieve your goal (variables, conditionals, arrays, loops and functions)
+Of course, you also have the option to use the other blocks that you create based on our syllabus to achieve your goal (variables, conditionals, arrays, loops and functions)
 
 ***Example:***  
 ![alt](images/eks.png)  
