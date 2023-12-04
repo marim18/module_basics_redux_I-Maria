@@ -31,12 +31,16 @@ This is a labor-intensive way of creating the program, possible for small proble
 
 The score is calculated using the following score key:  
 
-- 30% Does your code solve the task?
-- 30% How well do you use of programming concepts?
+- 25% Does your code solve the task?
+- 30% How well do you use programming concepts?
 - 15% Readability, how easy is your code to follow?
-- 15% Complexity/Verbosity, how complex is your code?  
+- 15% Complexity/Verbosity, how complex is your code? 
+
+Additionaly these dimentions are considerd either or: 
+
 - 5% Code conventions, how well does your code follow a code convention?
 - 5% Did you use git sensably?  
+- 5% Profesionality 
 
 ## Submission 
 
