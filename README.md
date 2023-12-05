@@ -10,6 +10,9 @@ You have four functions (Lego blocks) to achieve this:
 
 Of course, you also have the option to use the other blocks that you create based on our syllabus to achieve your goal (variables, conditionals, arrays, loops and functions)
 
+Remember that the functions may have a diffrent writing style depending on your choosen language, this is because of conventions in the given langauge.
+Use the convention that is correct for your language. 
+
 ***Example:***  
 ![alt](images/eks.png)  
 Possible  solution
@@ -45,9 +48,13 @@ Additionaly these dimentions are considerd either or:
 
 ## Submission 
 
-URL to Github repo that contains only the files task1.cs, task2.cs, task3.cs, task4.cs, task5.cs 
-We have included a template file that can be used to scaffold these files.  
-**We expect to se one commit per file, with meaningfull .**
+URL to **PUBLIC** Github repository that contains only the files listed in the task descriptions.  
+We have included template files that can be used to scaffold these files.  
+**We expect to se one commit per file, with meaningfull commit message.**
+
+### About file names when submitting.
+If a task spescefies for instance task1.* you replace the * with the file ending for your language.
+I.e. if you are wrting in c# the ending becomes cs so task1.cs, if you are wrting in js than the file becomes task1.js or task1.mjs, if you are writing in Python it becomes task1.py
 
 
 ## Task 1
@@ -55,7 +62,7 @@ We have included a template file that can be used to scaffold these files.
 As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
 **Submit**:   
-Add task1.cs to the repo.  
+Add task1.* file to the repo.  
 Commit to github. 
 
 ![alt](images/map1.png)  
@@ -65,7 +72,7 @@ Commit to github.
 As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
 **Submit**:   
-Add task2.cs to the repo.  
+Add task2.* to the repo.  
 Commit to github. 
 
 ![alt](images/map2.png)  
@@ -75,7 +82,7 @@ Commit to github.
 As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
 **Submit**:   
-Add task3.cs to the repo.  
+Add task3.* to the repo.  
 Commit to github. 
 
 ![alt](images/map3.png) 
@@ -85,7 +92,7 @@ Commit to github.
 As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
 **Submit**:   
-Add task4.cs to the repo.  
+Add task4.* to the repo.  
 Commit to github. 
 
 ![alt](images/map3.png) 
@@ -95,7 +102,7 @@ Commit to github.
 As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
 **Submit**:   
-Add task5.cs to the repo.  
+Add task5.* to the repo.  
 Commit to github. 
 
 ![alt](images/map5.png) 
