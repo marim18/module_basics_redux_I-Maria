@@ -95,7 +95,7 @@ As stated you can use the functions Move, Turn, Peek and AtGoal + variables, con
 Add task4.* to the repo.  
 Commit to github. 
 
-![alt](images/map3.png) 
+![alt](images/map4.png) 
 
 ## Task 5
 
