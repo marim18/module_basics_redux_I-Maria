@@ -1,11 +1,12 @@
 # Basics Redux
 
 In this assignment your goal is always to get the car to the final flag. 
-You have three functions (Lego blocks) to achieve this:
+You have four functions (Lego blocks) to achieve this:
 
 - **Move** : Moves the car 1 space in the direction it is heading. 
 - **Turn** : Turns the car 90 deg clockwise. 
 - **Peek** : Returns true if the next cell is open, otherwise false. 
+- **AtGoal:** : Retruns true if the current cell is the goal cell.
 
 Of course, you also have the option to use the other blocks that you create based on our syllabus to achieve your goal (variables, conditionals, arrays, loops and functions)
 
@@ -44,34 +45,57 @@ Additionaly these dimentions are considerd either or:
 
 ## Submission 
 
-URL to Github repo that contains only the files task1.cs, task2.cs, task3.cs  
+URL to Github repo that contains only the files task1.cs, task2.cs, task3.cs, task4.cs, task5.cs 
 We have included a template file that can be used to scaffold these files.  
 **We expect to se one commit per file, with meaningfull .**
 
 
 ## Task 1
 
-As stated you can use the functions Move, Turn and Peek + variables, conditionals, arrays, loops and functions to get the car to the end.
+As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
-**Submit**: add task1.cs *(copy tempale.cs and rename to task1.cs)* to the repo.
+**Submit**:   
+Add task1.cs to the repo.  
 Commit to github. 
 
 ![alt](images/map1.png)  
 
 ## Task 2
 
-As stated you can use the functions Move, Turn and Peek + variables, conditionals, arrays, loops and functions to get the car to the end.
+As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
-**Submit**: add task2.cs *(copy tempale.cs and rename to task2.cs)* to the repo.
+**Submit**:   
+Add task2.cs to the repo.  
 Commit to github. 
 
 ![alt](images/map2.png)  
 
 ## Task 3
 
-As stated you can use the functions Move, Turn and Peek + variables, conditionals, arrays, loops and functions to get the car to the end.
+As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
 
-**Submit**: add task3.cs *(copy tempale.cs and rename to task3.cs)* to the repo.
+**Submit**:   
+Add task3.cs to the repo.  
 Commit to github. 
 
 ![alt](images/map3.png) 
+
+## Task 4
+
+As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
+
+**Submit**:   
+Add task4.cs to the repo.  
+Commit to github. 
+
+![alt](images/map3.png) 
+
+## Task 5
+
+As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
+
+**Submit**:   
+Add task5.cs to the repo.  
+Commit to github. 
+
+![alt](images/map5.png) 
