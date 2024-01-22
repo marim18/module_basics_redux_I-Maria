@@ -6,7 +6,7 @@ You have four functions (Lego blocks) to achieve this:
 - **Move** : Moves the car 1 space in the direction it is heading. 
 - **Turn** : Turns the car 90 deg clockwise. 
 - **Peek** : Returns true if the next cell is open, otherwise false. 
-- **AtGoal:** : Retruns true if the current cell is the goal cell.
+- **AtGoal:** : Returns true if the current cell is the goal cell.
 
 Of course, you also have the option to use the other blocks that you create based on our syllabus to achieve your goal (variables, conditionals, arrays, loops and functions)
 
@@ -36,11 +36,11 @@ This is a labor-intensive way of creating the program, possible for small proble
 
 URL to **PUBLIC** Github repository that contains only the files listed in the task descriptions.  
 We have included template files that can be used to scaffold these files.  
-**We expect to se one commit per file, with meaningfull commit message.**
+**We expect to see one ore more commits per file, with meaningfull commit message.**
 
 ### About file names when submitting.
-If a task spescefies for instance task1.* you replace the * with the file ending for your language.
-I.e. if you are wrting in c# the ending becomes cs so task1.cs, if you are wrting in js than the file becomes task1.js or task1.mjs, if you are writing in Python it becomes task1.py
+If a task specifies for instance task1.* you replace the * with the file ending for your language.
+I.e. if you are writing in c# the ending becomes cs so task1.cs, if you are writing in js than the file becomes task1.js or task1.mjs, if you are writing in Python it becomes task1.py
 
 
 ## Task 1
