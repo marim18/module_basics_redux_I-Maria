@@ -7,7 +7,7 @@ namespace exam1
         public string Icon { get; set; }
         public int direction = 0;
 
-    };
+    
     class Map
     {
         public string MapLayout { get; set; }
@@ -17,7 +17,7 @@ namespace exam1
     };
 
     #region Basic functions
-class functions{
+
     void MoveChain(Map map, Car car)
     {
         while (!AtGoal())
