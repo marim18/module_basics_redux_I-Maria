@@ -1,4 +1,4 @@
-
+Most of the code is in program.cs
 The first thing i did was make an initial plan of how i was going to make the car move until it hit something then turn. My first notes looks like this: Gamefunc{
 while (somevariable){
 new pos = move(old pos)
